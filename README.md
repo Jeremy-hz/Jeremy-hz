@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jeremy-hz
+- 👀 I’m interested in AI and game development
+- 🌱 I’m currently learning Python AI
+- 📫 How to reach me hou_kang187@163.com
